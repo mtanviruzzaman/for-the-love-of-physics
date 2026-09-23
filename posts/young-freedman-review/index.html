@@ -76,6 +76,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -239,16 +268,37 @@ Position, velocity, and acceleration vectors
 <summary>
 Projectile motion
 </summary>
+<p><span class="math display">\[
+\begin{align}
+x(t) &amp;= (v_0 \cos{\alpha_0})t \\
+y(t) &amp;= (v_0 \sin{\alpha_0})t - \frac{1}{2}gt^2 \\
+v_x(t) &amp;= v_0 \cos{\alpha_0} \\
+v_y(t) &amp;= v_0 \sin{\alpha_0} - gt
+\end{align}
+\]</span></p>
 </details>
 <details>
 <summary>
 Uniform and nonuniform circular motion
 </summary>
+<span class="math display">\[
+\begin{align}
+a_{\text{rad}} &amp;= \frac{v^2}{R} \\
+a_{\text{tan}} &amp;= \frac{d|\vec{v}|}{dt} \\
+\left| \frac{d\vec{v}}{dt} \right| &amp;= \sqrt{ a_{\text{rad}}^2 + a_{\text{tan}}^2 }
+\end{align}
+\]</span>
 </details>
 <details>
 <summary>
 Relative velocity
 </summary>
+<span class="math display">\[
+\begin{align}
+\vec{v}_{A/C} &amp;= \vec{v}_{A/B} + \vec{v}_{B/C} \\
+\vec{v}_{A/B} &amp;= -\vec{v}_{B/A}
+\end{align}
+\]</span>
 </details>
 </details>
 

@@ -21,7 +21,7 @@
 
 
 <section id="units-physical-quantities-and-vectors" class="level2">
-
+<h2 class="anchored" data-anchor-id="units-physical-quantities-and-vectors">01. Units, physical quantities, and vectors</h2>
 <details>
 <summary>
 </summary>
@@ -108,16 +108,19 @@ Position, velocity, and acceleration vectors
 <summary>
 Projectile motion
 </summary>
+<p><img src="https://latex.codecogs.com/png.latex?%0A%5Cbegin%7Balign%7D%0Ax(t)%20&amp;=%20(v_0%20%5Ccos%7B%5Calpha_0%7D)t%20%5C%5C%0Ay(t)%20&amp;=%20(v_0%20%5Csin%7B%5Calpha_0%7D)t%20-%20%5Cfrac%7B1%7D%7B2%7Dgt%5E2%20%5C%5C%0Av_x(t)%20&amp;=%20v_0%20%5Ccos%7B%5Calpha_0%7D%20%5C%5C%0Av_y(t)%20&amp;=%20v_0%20%5Csin%7B%5Calpha_0%7D%20-%20gt%0A%5Cend%7Balign%7D%0A"></p>
 </details>
 <details>
 <summary>
 Uniform and nonuniform circular motion
 </summary>
+<img src="https://latex.codecogs.com/png.latex?%0A%5Cbegin%7Balign%7D%0Aa_%7B%5Ctext%7Brad%7D%7D%20&amp;=%20%5Cfrac%7Bv%5E2%7D%7BR%7D%20%5C%5C%0Aa_%7B%5Ctext%7Btan%7D%7D%20&amp;=%20%5Cfrac%7Bd%7C%5Cvec%7Bv%7D%7C%7D%7Bdt%7D%20%5C%5C%0A%5Cleft%7C%20%5Cfrac%7Bd%5Cvec%7Bv%7D%7D%7Bdt%7D%20%5Cright%7C%20&amp;=%20%5Csqrt%7B%20a_%7B%5Ctext%7Brad%7D%7D%5E2%20+%20a_%7B%5Ctext%7Btan%7D%7D%5E2%20%7D%0A%5Cend%7Balign%7D%0A">
 </details>
 <details>
 <summary>
 Relative velocity
 </summary>
+<img src="https://latex.codecogs.com/png.latex?%0A%5Cbegin%7Balign%7D%0A%5Cvec%7Bv%7D_%7BA/C%7D%20&amp;=%20%5Cvec%7Bv%7D_%7BA/B%7D%20+%20%5Cvec%7Bv%7D_%7BB/C%7D%20%5C%5C%0A%5Cvec%7Bv%7D_%7BA/B%7D%20&amp;=%20-%5Cvec%7Bv%7D_%7BB/A%7D%0A%5Cend%7Balign%7D%0A">
 </details>
 </details>
 
