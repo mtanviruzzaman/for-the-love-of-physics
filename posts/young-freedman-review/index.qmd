@@ -73,13 +73,36 @@ categories: [physics]
 
 <details>
 <summary>Projectile motion</summary>
+
+$$
+\begin{align}
+x(t) &= (v_0 \cos{\alpha_0})t \\
+y(t) &= (v_0 \sin{\alpha_0})t - \frac{1}{2}gt^2 \\
+v_x(t) &= v_0 \cos{\alpha_0} \\
+v_y(t) &= v_0 \sin{\alpha_0} - gt
+\end{align}
+$$
+
 </details>
 
 <details>
 <summary>Uniform and nonuniform circular motion</summary>
+$$
+\begin{align}
+a_{\text{rad}} &= \frac{v^2}{R} \\
+a_{\text{tan}} &= \frac{d|\vec{v}|}{dt} \\
+\left| \frac{d\vec{v}}{dt} \right| &= \sqrt{ a_{\text{rad}}^2 + a_{\text{tan}}^2 }
+\end{align}
+$$
 </details>
 
 <details>
 <summary>Relative velocity</summary>
+$$
+\begin{align}
+\vec{v}_{A/C} &= \vec{v}_{A/B} + \vec{v}_{B/C} \\
+\vec{v}_{A/B} &= -\vec{v}_{B/A}
+\end{align}
+$$
 </details>
 </details>
