@@ -10,7 +10,125 @@
 <atom:link href="https://mtanviruzzaman.github.io/for-the-love-of-physics/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 13 Sep 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Review: University Physics (14th ed.) by Young and Freedman</title>
+  <dc:creator>Mohammad Tanviruzzaman</dc:creator>
+  <link>https://mtanviruzzaman.github.io/for-the-love-of-physics/posts/young-freedman-review/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="units-physical-quantities-and-vectors" class="level2">
+
+<details>
+<summary>
+</summary>
+<details>
+<summary>
+Physical quantities and units
+</summary>
+</details>
+<details>
+<summary>
+Significant figures
+</summary>
+</details>
+<details>
+<summary>
+Scalars, vectors, and vector addition
+</summary>
+</details>
+<details>
+<summary>
+Vector components and vector addition
+</summary>
+</details>
+<details>
+<summary>
+Unit vectors
+</summary>
+</details>
+<details>
+<summary>
+Scalar product
+</summary>
+</details>
+<details>
+<summary>
+Vector product
+</summary>
+</details>
+</details>
+</section>
+<section id="motion-along-a-straight-line" class="level2">
+<h2 class="anchored" data-anchor-id="motion-along-a-straight-line">02. Motion along a straight line</h2>
+<details>
+<summary>
+</summary>
+<details>
+<summary>
+Straight-line motion, average and instantaneous x-velocity
+</summary>
+</details>
+<details>
+<summary>
+Average and instantaneous x-acceleration
+</summary>
+</details>
+<details>
+<summary>
+Straight-line motion with constant acceleration
+</summary>
+</details>
+<details>
+<summary>
+Freely falling bodies
+</summary>
+</details>
+<details>
+<summary>
+Straight-line motion with varying acceleration
+</summary>
+</details>
+</details>
+</section>
+<section id="motion-in-two-and-three-dimensions" class="level2">
+<h2 class="anchored" data-anchor-id="motion-in-two-and-three-dimensions">03. Motion in two and three dimensions</h2>
+<details>
+<summary>
+</summary>
+<details>
+<summary>
+Position, velocity, and acceleration vectors
+</summary>
+</details>
+<details>
+<summary>
+Projectile motion
+</summary>
+</details>
+<details>
+<summary>
+Uniform and nonuniform circular motion
+</summary>
+</details>
+<details>
+<summary>
+Relative velocity
+</summary>
+</details>
+</details>
+
+
+</section>
+
+ ]]></description>
+  <category>physics</category>
+  <guid>https://mtanviruzzaman.github.io/for-the-love-of-physics/posts/young-freedman-review/</guid>
+  <pubDate>Tue, 22 Sep 2026 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Centripetal acceleration in uniform circular motion</title>
   <dc:creator>Mohammad Tanviruzzaman</dc:creator>

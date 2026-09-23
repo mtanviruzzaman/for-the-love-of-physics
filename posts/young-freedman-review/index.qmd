@@ -1,0 +1,85 @@
+---
+title: "Review: University Physics (14th ed.) by Young and Freedman"
+author: "Mohammad Tanviruzzaman"
+date: "2026-09-22"
+categories: [physics]
+---
+
+## 01. Units, physical quantities, and vectors
+<details>
+<summary></summary>
+<details>
+<summary>Physical quantities and units</summary>
+</details>
+
+<details>
+<summary>Significant figures</summary>
+</details>
+
+<details>
+<summary>Scalars, vectors, and vector addition</summary>
+</details>
+
+<details>
+<summary>Vector components and vector addition</summary>
+</details>
+
+<details>
+<summary>Unit vectors</summary>
+</details>
+
+<details>
+<summary>Scalar product</summary>
+</details>
+
+<details>
+<summary>Vector product</summary>
+</details>
+
+</details>
+
+## 02. Motion along a straight line
+<details>
+<summary></summary>
+
+<details>
+<summary>Straight-line motion, average and instantaneous x-velocity</summary>
+</details>
+
+<details>
+<summary>Average and instantaneous x-acceleration</summary>
+</details>
+
+<details>
+<summary>Straight-line motion with constant acceleration</summary>
+</details>
+
+<details>
+<summary>Freely falling bodies</summary>
+</details>
+
+<details>
+<summary>Straight-line motion with varying acceleration</summary>
+</details>
+
+</details>
+
+## 03. Motion in two and three dimensions
+<details>
+<summary></summary>
+<details>
+<summary>Position, velocity, and acceleration vectors</summary>
+</details>
+
+<details>
+<summary>Projectile motion</summary>
+</details>
+
+<details>
+<summary>Uniform and nonuniform circular motion</summary>
+</details>
+
+<details>
+<summary>Relative velocity</summary>
+</details>
+</details>
