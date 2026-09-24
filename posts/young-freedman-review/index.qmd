@@ -1,8 +1,9 @@
 ---
-title: "Review: University Physics (14th ed.) by Young and Freedman"
+title: "Review: University Physics"
 author: "Mohammad Tanviruzzaman"
 date: "2026-09-22"
-categories: [physics]
+categories: [physics, review]
+description: "Retrieval practice hints for University Physics (14th ed.) by Young and Freedman"
 ---
 
 ## 01. Units, physical quantities, and vectors
