@@ -5,16 +5,16 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>For the love of Physics</title>
-<link>https://mtanviruzzaman.github.io/for-the-love-of-physics/</link>
-<atom:link href="https://mtanviruzzaman.github.io/for-the-love-of-physics/index.xml" rel="self" type="application/rss+xml"/>
+<title>The Nature Curriculum</title>
+<link>https://mtanviruzzaman.github.io/nature/</link>
+<atom:link href="https://mtanviruzzaman.github.io/nature/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.10.18</generator>
 <lastBuildDate>Tue, 22 Sep 2026 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Review: University Physics</title>
   <dc:creator>Mohammad Tanviruzzaman</dc:creator>
-  <link>https://mtanviruzzaman.github.io/for-the-love-of-physics/posts/young-freedman-review/</link>
+  <link>https://mtanviruzzaman.github.io/nature/posts/young-freedman-review/</link>
   <description><![CDATA[ 
 
 
@@ -130,13 +130,13 @@ Relative velocity
  ]]></description>
   <category>physics</category>
   <category>review</category>
-  <guid>https://mtanviruzzaman.github.io/for-the-love-of-physics/posts/young-freedman-review/</guid>
+  <guid>https://mtanviruzzaman.github.io/nature/posts/young-freedman-review/</guid>
   <pubDate>Tue, 22 Sep 2026 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Centripetal acceleration in uniform circular motion</title>
   <dc:creator>Mohammad Tanviruzzaman</dc:creator>
-  <link>https://mtanviruzzaman.github.io/for-the-love-of-physics/posts/circular-motion/</link>
+  <link>https://mtanviruzzaman.github.io/nature/posts/circular-motion/</link>
   <description><![CDATA[ 
 
 
@@ -145,7 +145,7 @@ Relative velocity
 <p>To understand how acceleration affects velocity, it is useful to think of acceleration vector having just two components: one parallel to the velocity vector and the other perpendicular to the velocity vector. The parallel component explains changes in speed and the perpendicular component explains changes in direction.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://mtanviruzzaman.github.io/for-the-love-of-physics/posts/circular-motion/circ_motion_1.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:30.0%"></p>
+<p><img src="https://mtanviruzzaman.github.io/nature/posts/circular-motion/circ_motion_1.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:30.0%"></p>
 </figure>
 </div>
 <p>In uniform circular motion, the speed is constant. So, the entire acceleration vector consists of the perpendicular component. At a given point on the circle, the velocity vector is tangent to the circular path and the acceleration vector is directed towards the center along a radius.</p>
@@ -157,13 +157,13 @@ Relative velocity
 <p>We make the below observation about vectors in general: if we have two vectors (<img src="https://latex.codecogs.com/png.latex?%5Cvec%7Bv%7D_1"> and <img src="https://latex.codecogs.com/png.latex?%5Cvec%7Bv%7D_2">) perpendicular to two other vectors (<img src="https://latex.codecogs.com/png.latex?%5Cvec%7Br%7D_1"> and <img src="https://latex.codecogs.com/png.latex?%5Cvec%7Br%7D_2">), then these two pairs of vectors have same angle (<img src="https://latex.codecogs.com/png.latex?%5Ctheta">) between them.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://mtanviruzzaman.github.io/for-the-love-of-physics/posts/circular-motion/circ_motion_2.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+<p><img src="https://mtanviruzzaman.github.io/nature/posts/circular-motion/circ_motion_2.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
 </figure>
 </div>
 <p>Now, consider the situation where at times <img src="https://latex.codecogs.com/png.latex?t_1"> and <img src="https://latex.codecogs.com/png.latex?t_2%20(=%20t_1%20+%20%5CDelta%20t)"> a particle in uniform circular motion has velocities <img src="https://latex.codecogs.com/png.latex?%5Cvec%7Bv%7D_1"> and <img src="https://latex.codecogs.com/png.latex?%5Cvec%7Bv%7D_2">. Here <img src="https://latex.codecogs.com/png.latex?%7C%5Cvec%7Bv%7D_1%7C%20=%20%7C%5Cvec%7Bv%7D_1%7C%20=%20v">.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://mtanviruzzaman.github.io/for-the-love-of-physics/posts/circular-motion/circ_motion_3.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+<p><img src="https://mtanviruzzaman.github.io/nature/posts/circular-motion/circ_motion_3.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
 </figure>
 </div>
 <p>When we measure <img src="https://latex.codecogs.com/png.latex?%5Ctheta"> in radians, from the left figure above, we have: <img src="https://latex.codecogs.com/png.latex?%0A%5Ctheta%20=%20%5Cfrac%7B%5Ctext%7Barc-length%7D%7D%7BR%7D%20=%20%5Cfrac%7Bv%20%5Ccdot%20%5CDelta%20t%7D%7BR%7D%0A"></p>
@@ -205,7 +205,7 @@ $$
 <p>Idea is to express the particle’s position as a function of time and then take derivatives to first find velocity and then acceleration.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://mtanviruzzaman.github.io/for-the-love-of-physics/posts/circular-motion/circ_motion_5.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<p><img src="https://mtanviruzzaman.github.io/nature/posts/circular-motion/circ_motion_5.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
 <p>The particle’s position can be represented as a radius vector that rotates with time: <img src="https://latex.codecogs.com/png.latex?%0A%5Cvec%7Br%7D(t)%20=%20r%20%5Ccos%7B(%5Ctheta(t))%7D%5Chat%7B%5Cimath%7D%20+%20r%20%5Csin%7B(%5Ctheta(t))%7D%5Chat%7B%5Cjmath%7D%0A"></p>
@@ -222,13 +222,13 @@ $$
 
  ]]></description>
   <category>physics</category>
-  <guid>https://mtanviruzzaman.github.io/for-the-love-of-physics/posts/circular-motion/</guid>
+  <guid>https://mtanviruzzaman.github.io/nature/posts/circular-motion/</guid>
   <pubDate>Sun, 13 Sep 2026 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Hidden history in Physics textbooks</title>
   <dc:creator>Mohammad Tanviruzzaman</dc:creator>
-  <link>https://mtanviruzzaman.github.io/for-the-love-of-physics/posts/first-post/</link>
+  <link>https://mtanviruzzaman.github.io/nature/posts/first-post/</link>
   <description><![CDATA[ 
 
 
@@ -293,7 +293,7 @@ Quanta view
 
  ]]></description>
   <category>physics</category>
-  <guid>https://mtanviruzzaman.github.io/for-the-love-of-physics/posts/first-post/</guid>
+  <guid>https://mtanviruzzaman.github.io/nature/posts/first-post/</guid>
   <pubDate>Fri, 04 Sep 2026 07:00:00 GMT</pubDate>
 </item>
 </channel>

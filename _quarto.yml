@@ -3,13 +3,13 @@ project:
 
 website:
   description: "A blog built with Quarto"
-  site-url: https://mtanviruzzaman.github.io/for-the-love-of-physics/
-  repo-url: https://github.com/mtanviruzzaman/for-the-love-of-physics
-  title: "For the love of Physics"
+  site-url: https://mtanviruzzaman.github.io/nature/
+  repo-url: https://github.com/mtanviruzzaman/nature
+  title: "The Nature Curriculum"
   navbar:
     right:
       - icon: github
-        href: https://github.com/mtanviruzzaman/for-the-love-of-physics
+        href: https://github.com/mtanviruzzaman/nature
 format:
   html:
     theme:
@@ -19,7 +19,7 @@ format:
 
 comments:
   giscus:
-    repo: mtanviruzzaman/for-the-love-of-physics
+    repo: mtanviruzzaman/nature
     category: Announcements
     mapping: pathname
     reactions-enabled: true

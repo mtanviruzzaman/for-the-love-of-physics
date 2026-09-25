@@ -49,5 +49,32 @@
   },
   "posts/young-freedman-review/index.qmd": {
     "index.html": "db9e18a7"
+  },
+  "study/02-physics/01-young-freedman-university-physics/ch01/notes.qmd": {
+    "notes.html": "49d4798b"
+  },
+  "study/02-physics/01-young-freedman-university-physics/ch01/solutions.qmd": {
+    "solutions.html": "7c5558df"
+  },
+  "study/02-physics/01-young-freedman-university-physics/ch01/retrospective.qmd": {
+    "retrospective.html": "b27bc83a"
+  },
+  "study/02-physics/01-young-freedman-university-physics/ch03/notes.qmd": {
+    "notes.html": "150ec3db"
+  },
+  "study/02-physics/01-young-freedman-university-physics/ch03/solutions.qmd": {
+    "solutions.html": "877d2fe0"
+  },
+  "study/02-physics/01-young-freedman-university-physics/ch03/retrospective.qmd": {
+    "retrospective.html": "b465758b"
+  },
+  "study/02-physics/01-young-freedman-university-physics/ch02/notes.qmd": {
+    "notes.html": "9c3a8aaf"
+  },
+  "study/02-physics/01-young-freedman-university-physics/ch02/solutions.qmd": {
+    "solutions.html": "5cd389f3"
+  },
+  "study/02-physics/01-young-freedman-university-physics/ch02/retrospective.qmd": {
+    "retrospective.html": "6120c556"
   }
 }
